@@ -1,0 +1,24 @@
+/*Introducao Interna*/
+.interna-sobre
+{
+	background: url("../Img/YusukeSobre.png") no-repeat center;
+	width: 100%;
+	background-size: cover;
+	margin-top:96px;
+	height:177px;
+	color: #FFF;
+	text-align: center;
+	padding-top: 40px;
+}
+.sinopse
+{
+	padding: 115px 0;	
+}
+.sinopse p
+{
+	color: #3E3E3E;
+	font-size: 14px;
+	margin-top: 10px;
+	text-align: center;
+	
+}
