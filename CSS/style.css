@@ -1093,6 +1093,10 @@ img {
     width: 400px;
     text-align: center;
     font-weight: bold;
+    padding: 5px 55px;
+  }
+  .Equipe-img {
+    margin-bottom: 0;
   }
   .Equipe-QuemSou h2 {
     font-weight: bold;
