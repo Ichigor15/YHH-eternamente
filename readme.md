@@ -1,3 +1,3 @@
-#Site
+#Site YYH Eternamente
 
-## Acesse pelo link: [Acessar](https://yyheternamente.netlify.app/index.html)
+## link protótipo (clique para acessar): [Acessar](https://yyheternamente.netlify.app/index.html)
