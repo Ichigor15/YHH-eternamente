@@ -177,12 +177,24 @@
     padding: 0;
   }
 }
-/*Smartphones L*/
-@media only screen and (max-width: 426px) {
-}
 /*Smartphones M*/
-@media only screen and (max-width: 426px) {
-}
-/*Smartphones S*/
-@media only screen and (max-width: 426px) {
+@media only screen and (max-width: 376px) {
+  .Equipe {
+    height: 400px;
+    width: 500px;
+    text-align: center;
+    padding: 0px 100px;
+  }
+  .Equipe-QuemSou h2 {
+    font-weight: bold;
+  }
+
+  .Equipe-Descrisao {
+    height: 300px;
+    width: 500px;
+    margin-top: 0px;
+    padding: 20px 100px;
+    font-size: 14px;
+    text-align: left;
+  }
 }

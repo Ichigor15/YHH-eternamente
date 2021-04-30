@@ -1,52 +1,44 @@
 /*Introducao Interna*/
-.interna-personagens
-{
-	background: url("../Img/hiei personagens.png") no-repeat center;
-	width: 100%;
-	background-size: cover;
-	margin-top:96px;
-	height:177px;
-	color: #FFF;
-	text-align: center;
-	padding-top: 40px;
+.interna-personagens {
+  background: url('../Img/hiei personagens.png') no-repeat center;
+  width: 100%;
+  background-size: cover;
+  margin-top: 96px;
+  height: 177px;
+  color: #fff;
+  text-align: center;
+  padding-top: 40px;
 }
-.personagens{
-	padding: 60px 0;
+.personagens {
+  padding: 60px 0;
 }
-.personagens-img{
-	background:#f4cd4c;
-	height: 398px;
-
-
+.personagens-img {
+  background: #f4cd4c;
+  height: 398px;
 }
 
-.NomePersonagem{
-color: #FFF;
+.NomePersonagem {
+  color: #fff;
 }
-.NomePersonagem h2{
-background: #162963;
-text-align: center;
-height: 55px;
-text-transform: uppercase;
-font-size: 24px;
-margin-bottom: 30px;
-padding: 15px;
-font-weight: bold;
-
-}
-
-.NomePersonagem p{
-	padding: 15px;		
-	font-size: 14px;
-
+.NomePersonagem h2 {
+  background: #162963;
+  text-align: center;
+  height: 55px;
+  text-transform: uppercase;
+  font-size: 24px;
+  margin-bottom: 30px;
+  padding: 15px;
+  font-weight: bold;
 }
 
-.DescrisaoPersonagem{
-background: #162963;
-height: 313px;
-text-align: center;
-width: 520px;
+.NomePersonagem p {
+  padding: 15px;
+  font-size: 14px;
+}
 
-
-
+.DescrisaoPersonagem {
+  background: #162963;
+  height: 313px;
+  text-align: center;
+  width: 520px;
 }
