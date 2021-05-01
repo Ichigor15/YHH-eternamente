@@ -946,6 +946,7 @@ img {
 .NomePersonagem p {
   padding: 15px;
   font-size: 14px;
+  background: #162963;
 }
 
 .DescrisaoPersonagem {
@@ -1032,9 +1033,10 @@ img {
     padding: 15px 20px;
     width: 520px;
   }
+
   .DescrisaoPersonagem {
     padding: 0;
-    height: 168px;
+    height: 180px;
     width: 520px;
   }
   /*Introducao Interna*/
@@ -1317,5 +1319,11 @@ img {
   }
   .footer {
     width: 100%;
+  }
+}
+@media only screen and (max-width: 321px) {
+  .grid-9 {
+    width: 200px;
+    padding: 0;
   }
 }
